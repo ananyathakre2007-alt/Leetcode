@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
