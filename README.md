@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -65,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
