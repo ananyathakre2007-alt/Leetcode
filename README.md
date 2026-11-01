@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Binary Search
 |  |
