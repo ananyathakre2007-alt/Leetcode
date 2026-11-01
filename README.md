@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0134-gas-station](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
