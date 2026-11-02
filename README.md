@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0041-first-missing-positive) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0018-4sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0645-set-mismatch) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
