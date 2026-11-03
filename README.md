@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1051-height-checker](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0134-gas-station) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
