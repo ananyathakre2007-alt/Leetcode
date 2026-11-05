@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0134-gas-station) |
+| [0149-max-points-on-a-line](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0349-intersection-of-two-arrays](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0412-fizz-buzz](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -174,4 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
