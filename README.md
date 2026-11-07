@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0412-fizz-buzz](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
