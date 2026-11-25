@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -201,4 +202,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
