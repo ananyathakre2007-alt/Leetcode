@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0412-fizz-buzz) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1773-count-items-matching-a-rule](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Binary Search
 |  |
@@ -203,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/0326-power-of-three) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ananyathakre2007-alt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
